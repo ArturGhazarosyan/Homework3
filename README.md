@@ -3,7 +3,7 @@
 //  main.cpp
 //  OOP hw
 //
-//  Created by Artur Ghazarosyan on 2/8/16.
+//  Created by Artur Ghazarosyan on 5/2/16.
 //  Copyright © 2016 Artur Ghazarosyan. All rights reserved.
 //
 
